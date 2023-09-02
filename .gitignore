@@ -113,3 +113,4 @@ ENV/
 
 *.model
 
+/home/cansu/nnUNet_mulseg/nnUNet_mulseg/nnunet/
