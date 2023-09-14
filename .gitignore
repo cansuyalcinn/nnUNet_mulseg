@@ -113,4 +113,7 @@ ENV/
 
 *.model
 
-/home/cansu/nnUNet_mulseg/nnUNet_mulseg/nnunet/
+nnunet/
+TopCoW_Algo_Submission-master/
+crown_test.ipynb
+nnunet_trial_alone/
